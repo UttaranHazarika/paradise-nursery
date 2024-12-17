@@ -2,12 +2,12 @@ import ProductCard from "../components/ProductCard";
 import "../index.css";
 
 const plants = [
-  { id: 1, name: "Snake Plant", price: 15, image: "/src/assets/snake.jpg" },
-  { id: 2, name: "Spider Plant", price: 12, image: "/src/assets/spider.jpg" },
-  { id: 3, name: "Peace Lily", price: 18, image: "/src/assets/lily.jpg" },
-  { id: 4, name: "Boston Fern", price: 15, image: "/src/assets/fern.jpg" },
-  { id: 5, name: "Rubber Plant", price: 20, image: "/src/assets/rubber.jpg" },
-  { id: 6, name: "Aloe Vera", price: 10, image: "/src/assets/aloe.jpg" },
+  { id: 1, name: "Snake Plant", price: 15, image: "/snake.jpg" },
+  { id: 2, name: "Spider Plant", price: 12, image: "/spider.jpg" },
+  { id: 3, name: "Peace Lily", price: 18, image: "/lily.jpg" },
+  { id: 4, name: "Boston Fern", price: 15, image: "/fern.jpg" },
+  { id: 5, name: "Rubber Plant", price: 20, image: "/rubber.jpg" },
+  { id: 6, name: "Aloe Vera", price: 10, image: "/aloe.jpg" },
 ];
 
 const ProductPage = () => (
