@@ -6,7 +6,7 @@ const LandingPage = () => (
     className="d-flex flex-column align-items-start justify-content-center px-5"
     style={{
       height: "100vh",
-      backgroundImage: "url(/assets/background.jpg)",
+      backgroundImage: "url(/src/assets/background.jpg)",
       backgroundSize: "cover",
     }}
   >
