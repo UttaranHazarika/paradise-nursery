@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+}
+
+.product-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.product-card .btn {
+  font-size: 0.9rem;
+}
